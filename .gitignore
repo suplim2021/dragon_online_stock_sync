@@ -1,0 +1,15 @@
+# ─── Input files (เปลี่ยนทุกครั้ง ไม่ต้อง track) ───────────────────────────
+mass_update_sales_info_*.xlsx
+pricestock*.xlsx
+Tiktoksellercenter_*.xlsx
+บริษัท ศรีวัฒนะบุญ ซัพพลายส์ จำกัด_SimpleInventoryReport_.xlsx
+
+# ─── Output folders ──────────────────────────────────────────────────────────
+Reports/
+Uploads/
+
+# ─── System files ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
