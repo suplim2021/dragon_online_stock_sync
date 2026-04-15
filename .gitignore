@@ -13,3 +13,7 @@ Uploads/
 Thumbs.db
 __pycache__/
 *.pyc
+CLAUDE.md
+example/20251221.xlsx
+stock-sync-online/SKILL.md
+stock-sync-online/scripts/stock_sync.py
